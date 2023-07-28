@@ -1,2 +1,2 @@
-#curso de  git  y githut
+curso de  git  y githut
  hols soy jimmy
